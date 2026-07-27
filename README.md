@@ -22,7 +22,7 @@
   &nbsp;|&nbsp;
   ☁️ <strong>Program Admin @ FCAJ</strong>
   &nbsp;|&nbsp;
-  🚀 <strong>Captain @ FPT ASBG</strong>
+  🚀 <a href="https://www.facebook.com/ASBGatFPT"><strong>Captain @ FPT ASBG</strong></a>
 </p>
 
 <p align="center">
