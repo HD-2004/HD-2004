@@ -20,9 +20,9 @@
   &nbsp;|&nbsp;
   <strong>Cloud Engineer</strong>
   &nbsp;|&nbsp;
-  ☁️ <strong>Program Admin @ FCAJ</strong>
+  ☁️ <strong>Program Admin at FCAJ</strong>
   &nbsp;|&nbsp;
-  🚀 <a href="https://www.facebook.com/ASBGatFPT"><strong>Captain @ FPT ASBG</strong></a>
+  🚀 <strong>Captain at FPT ASBG</strong>
 </p>
 
 <p align="center">
