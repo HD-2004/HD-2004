@@ -10,19 +10,17 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+Do+Hoang+Hieu+%F0%9F%91%8B;Software+Developer+from+Vietnam;Exploring+AI+%E2%80%A2+Cloud+%E2%80%A2+Mobile"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+Do+Hoang+Hieu+%F0%9F%91%8B;CloudOps+%7C+GenAI+Engineer+%7C+Cloud+Engineer;Building+reliable+AWS+%26+AI+systems"
     alt="Typing introduction"
   />
 </p>
 
 <p align="center">
-  <strong>Software Developer</strong>
+  <strong>CloudOps</strong>
   &nbsp;•&nbsp;
-  <strong>AI &amp; Machine Learning Explorer</strong>
+  <strong>GenAI Engineer</strong>
   &nbsp;•&nbsp;
-  <strong>Cloud Learner</strong>
-  &nbsp;•&nbsp;
-  <strong>Flutter Builder</strong>
+  <strong>Cloud Engineer</strong>
 </p>
 
 <p align="center">
@@ -36,17 +34,22 @@
   <img src="https://komarev.com/ghpvc/?username=HD-2004&amp;label=PROFILE+VIEWS&amp;color=0969da&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
-> I learn by building — from mobile applications and interactive websites to machine learning experiments and cloud-powered AI systems.
+> Building reliable cloud systems and AI-assisted workflows on AWS through hands-on projects, monitoring, troubleshooting, and automation.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Building practical projects across **mobile, web, machine learning, and cloud**
-- 🌱 Currently exploring **AI agents, Amazon Web Services, and data analytics**
-- 📱 Creating cross-platform applications with **Flutter & Dart**
-- 🧠 Documenting my machine learning journey through hands-on projects
-- 🤝 Open to learning, collaboration, and projects that create real-world value
+I am a final-year student with a strong interest in **cloud computing, artificial intelligence, and cybersecurity**. Through academic coursework, personal projects, and self-directed learning, I have gained hands-on experience in designing and building applications, working with cloud services, and applying AI, machine learning, and security concepts to practical problems. I am currently strengthening my knowledge of **AWS architecture, serverless technologies, generative AI, cloud security, and modern security practices**.
+
+I am also passionate about **continuous learning, knowledge sharing, and contributing to technical communities**. I actively participate in workshops, seminars, study groups, and collaborative projects to improve both my technical and communication skills. As I prepare to begin my professional career, I aim to apply my knowledge in real-world environments, learn from experienced engineers, and contribute to building **secure, reliable, scalable, and meaningful technology solutions**.
+
+- 🎓 Final-year **Information Assurance** student at **FPT University**
+- ☁️ Pursuing a career path in **CloudOps / Cloud Engineering**
+- 🔭 Building **AWS serverless systems, security analytics pipelines, and AI-assisted cloud workflows**
+- 🛠️ Focused on **monitoring, log analysis, troubleshooting, cost optimization, reliability, and automation**
+- 🤖 Exploring **GenAI, LLM integration, AI agents, RAG, and Amazon Bedrock**
+- 💼 Open to **CloudOps / Cloud Engineer** opportunities where I can contribute to real-world AWS operations
 
 ---
 
