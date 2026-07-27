@@ -22,6 +22,12 @@
 </p>
 
 <p align="center">
+  ☁️ <strong>Program Admin @ FCAJ</strong>
+  &nbsp;|&nbsp;
+  🚀 <strong>Captain @ FPT ASBG</strong>
+</p>
+
+<p align="center">
   📍 Ho Chi Minh City, Vietnam
 </p>
 
