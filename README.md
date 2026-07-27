@@ -17,11 +17,9 @@
 
 <p align="center">
   <strong>GenAI Engineer</strong>
-  &nbsp;•&nbsp;
+  &nbsp;|&nbsp;
   <strong>Cloud Engineer</strong>
-</p>
-
-<p align="center">
+  &nbsp;|&nbsp;
   ☁️ <strong>Program Admin @ FCAJ</strong>
   &nbsp;|&nbsp;
   🚀 <strong>Captain @ FPT ASBG</strong>
