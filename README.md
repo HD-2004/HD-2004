@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+Do+Hoang+Hieu+%F0%9F%91%8B;CloudOps+%7C+GenAI+Engineer+%7C+Cloud+Engineer;Building+reliable+AWS+%26+AI+systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+Do+Hoang+Hieu+%F0%9F%91%8B;GenAI+Engineer+%7C+Cloud+Engineer;Building+reliable+AWS+%26+AI+systems"
     alt="Typing introduction"
   />
 </p>
@@ -43,11 +43,11 @@ I am a final-year student with a strong interest in **cloud computing, artificia
 I am also passionate about **continuous learning, knowledge sharing, and contributing to technical communities**. I actively participate in workshops, seminars, study groups, and collaborative projects to improve both my technical and communication skills. As I prepare to begin my professional career, I aim to apply my knowledge in real-world environments, learn from experienced engineers, and contribute to building **secure, reliable, scalable, and meaningful technology solutions**.
 
 - 🎓 Final-year **Information Assurance** student at **FPT University**
-- ☁️ Pursuing a career path in **CloudOps / Cloud Engineering**
+- ☁️ Pursuing a career path in **Cloud Engineering**
 - 🔭 Building **AWS serverless systems, security analytics pipelines, and AI-assisted cloud workflows**
 - 🛠️ Focused on **monitoring, log analysis, troubleshooting, cost optimization, reliability, and automation**
 - 🤖 Exploring **GenAI, LLM integration, AI agents, RAG, and Amazon Bedrock**
-- 💼 Open to **CloudOps / Cloud Engineer** opportunities where I can contribute to real-world AWS operations
+- 💼 Open to **Cloud Engineer** opportunities where I can contribute to real-world AWS operations
 
 ---
 
