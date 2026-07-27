@@ -16,8 +16,6 @@
 </p>
 
 <p align="center">
-  <strong>CloudOps</strong>
-  &nbsp;•&nbsp;
   <strong>GenAI Engineer</strong>
   &nbsp;•&nbsp;
   <strong>Cloud Engineer</strong>
