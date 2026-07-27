@@ -74,15 +74,15 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 
 ### 🤖 AI & Machine Learning
 
-- **[Learning Machine Learning](https://github.com/HD-2004/Learning-Machine-Learning)** — A growing collection of hands-on projects from my machine learning journey.
-- **[AgentForge Workshop](https://github.com/HD-2004/AgentForge_Workshop)** — Exploring production-ready agentic systems with Amazon Bedrock AgentCore.
-- **[SignalScout](https://github.com/HD-2004/SignalScout)** — Exploring an autonomous agent for detecting early corporate risk signals.
+- **[Learning Machine Learning](https://github.com/HD-2004/Learning-Machine-Learning)** - A growing collection of hands-on projects from my machine learning journey.
+- **[AgentForge Workshop](https://github.com/HD-2004/AgentForge_Workshop)** - Exploring production-ready agentic systems with Amazon Bedrock AgentCore.
+- **[SignalScout](https://github.com/HD-2004/SignalScout)** - Exploring an autonomous agent for detecting early corporate risk signals.
 
 ### 📱 Mobile & Web
 
-- **[OppoApp](https://github.com/HD-2004/OppoApp)** — A Flutter-based recruitment application built with Dart.
-- **[MLN111 Project](https://github.com/HD-2004/MLN111-Project)** — An interactive learning website about matter and consciousness in the AI era.
-- **[MLN122](https://github.com/HD-2004/MLN122)** — A course website for learning the fundamentals of Marxist–Leninist political economy.
+- **[OppoApp](https://github.com/HD-2004/OppoApp)** - A Flutter-based recruitment application built with Dart.
+- **[MLN111 Project](https://github.com/HD-2004/MLN111-Project)** - An interactive learning website about matter and consciousness in the AI era.
+- **[MLN122](https://github.com/HD-2004/MLN122)** - A course website for learning the fundamentals of Marxist–Leninist political economy.
 
 ---
 
