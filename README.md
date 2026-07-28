@@ -76,21 +76,72 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 
 ## 🏅 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">
-    <img
-      src="https://images.credly.com/size/180x180/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
-      width="160"
-      alt="Cisco Ethical Hacker badge"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Ethical Hacker</strong><br />
-  Issued by <strong>Cisco</strong><br />
-  <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">Verify credential on Credly</a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/cc3a541c-ddb3-423a-beda-d1752815f030">
+        <img
+          src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png"
+          width="140"
+          alt="Cisco CCNA Introduction to Networks badge"
+        />
+      </a>
+      <br />
+      <strong>CCNA: Introduction to Networks</strong>
+      <br />
+      Issued by <strong>Cisco</strong>
+      <br />
+      <a href="https://www.credly.com/badges/cc3a541c-ddb3-423a-beda-d1752815f030">Verify credential</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/16c79e01-6257-46a5-a23c-fe9756baa125">
+        <img
+          src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png"
+          width="140"
+          alt="Cisco CCNA Switching Routing and Wireless Essentials badge"
+        />
+      </a>
+      <br />
+      <strong>CCNA: Switching, Routing, and Wireless Essentials</strong>
+      <br />
+      Issued by <strong>Cisco</strong>
+      <br />
+      <a href="https://www.credly.com/badges/16c79e01-6257-46a5-a23c-fe9756baa125">Verify credential</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/9f3c617d-d8e1-44c5-8839-10975ea7a978">
+        <img
+          src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/linkedin_thumb_CyberOpsAssoc.png"
+          width="140"
+          alt="Cisco CyberOps Associate badge"
+        />
+      </a>
+      <br />
+      <strong>CyberOps Associate</strong>
+      <br />
+      Issued by <strong>Cisco</strong>
+      <br />
+      <a href="https://www.credly.com/badges/9f3c617d-d8e1-44c5-8839-10975ea7a978">Verify credential</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">
+        <img
+          src="https://images.credly.com/size/180x180/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
+          width="140"
+          alt="Cisco Ethical Hacker badge"
+        />
+      </a>
+      <br />
+      <strong>Ethical Hacker</strong>
+      <br />
+      Issued by <strong>Cisco</strong>
+      <br />
+      <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">Verify credential</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
