@@ -74,6 +74,26 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">
+    <img
+      src="https://images.credly.com/size/180x180/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
+      width="160"
+      alt="Cisco Ethical Hacker badge"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Ethical Hacker</strong><br />
+  Issued by <strong>Cisco</strong><br />
+  <a href="https://www.credly.com/badges/3a685884-8940-44a0-82c1-06a5d1f4acf6">Verify credential on Credly</a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 AI & Machine Learning
