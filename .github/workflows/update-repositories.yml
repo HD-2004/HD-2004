@@ -1,0 +1,56 @@
+name: Update profile repositories
+
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: "23 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/repository-categories.json"
+      - ".github/workflows/update-repositories.yml"
+      - "scripts/update_repositories.py"
+      - "tests/test_update_repositories.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-repositories
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Test the repository classifier
+        run: python -m unittest discover -v
+
+      - name: Update the repository list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_repositories.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update repository list"
+          git push

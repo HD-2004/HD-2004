@@ -1,0 +1,35 @@
+{
+  "github_username": "HD-2004",
+  "match_fields": [
+    "name",
+    "description",
+    "topics"
+  ],
+  "sort_by": "name",
+  "exclude": {
+    "names": [
+      "HD-2004"
+    ],
+    "forks": false,
+    "archived": true,
+    "disabled": true
+  },
+  "categories": [
+    {
+      "id": "learning",
+      "title": "📚 Learning & Workshops",
+      "keywords": [
+        "learning",
+        "workshop"
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "🚀 Projects",
+      "keywords": [
+        "project"
+      ],
+      "default": true
+    }
+  ]
+}
