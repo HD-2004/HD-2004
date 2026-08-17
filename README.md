@@ -159,10 +159,12 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 - **[AgentForge_Workshop](https://github.com/HD-2004/AgentForge_Workshop)** — Building production-ready agentic systems using Amazon Bedrock AgentCore
 - **[Learning-Machine-Learning](https://github.com/HD-2004/Learning-Machine-Learning)** — This repository save the projects that I learn machine learning.
 - **[learning-terraform-aws](https://github.com/HD-2004/learning-terraform-aws)**
+- **[Security-Agent-Workshop](https://github.com/HD-2004/Security-Agent-Workshop)**
 
 ### 🚀 Projects
 
 - **[Advanced-Analytics-with-Athena-and-AI-Powered-Serverless-Security-Analytics-System-on-AWS](https://github.com/HD-2004/Advanced-Analytics-with-Athena-and-AI-Powered-Serverless-Security-Analytics-System-on-AWS)**
+- **[AI-Retail-Support-Center](https://github.com/HD-2004/AI-Retail-Support-Center)**
 - **[EXE201-finalproject](https://github.com/HD-2004/EXE201-finalproject)**
 - **[MLN111-Project](https://github.com/HD-2004/MLN111-Project)** — Xây dựng một trang học về triết học chủ đề là "Chủ đề về: Khái niệm "Vật chất và Ý thức" trong kỷ nguyên AI"
 - **[MLN122](https://github.com/HD-2004/MLN122)** — This course project equips students with the fundamental and core knowledge of Marxist-Leninist political economy within the context of the country's and the world's economic development today. This project will give you a better understanding of the subject.
