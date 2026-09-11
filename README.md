@@ -157,9 +157,9 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 ### 📚 Learning & Workshops
 
 - **[AgentForge_Workshop](https://github.com/HD-2004/AgentForge_Workshop)** — Building production-ready agentic systems using Amazon Bedrock AgentCore
-- **[Learning-Machine-Learning](https://github.com/HD-2004/Learning-Machine-Learning)** — This repository save the projects that I learn machine learning.
 - **[learning-terraform-aws](https://github.com/HD-2004/learning-terraform-aws)**
 - **[LLM_engineering](https://github.com/HD-2004/LLM_engineering)** — This is my learning project about the LLM engineer. I will try to build something
+- **[Machine-Learning](https://github.com/HD-2004/Machine-Learning)**
 - **[Security-Agent-Workshop](https://github.com/HD-2004/Security-Agent-Workshop)**
 
 ### 🚀 Projects
