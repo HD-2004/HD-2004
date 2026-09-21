@@ -170,6 +170,7 @@ I am also passionate about **continuous learning, knowledge sharing, and contrib
 - **[MLN111-Project](https://github.com/HD-2004/MLN111-Project)** — Xây dựng một trang học về triết học chủ đề là "Chủ đề về: Khái niệm "Vật chất và Ý thức" trong kỷ nguyên AI"
 - **[MLN122](https://github.com/HD-2004/MLN122)** — This course project equips students with the fundamental and core knowledge of Marxist-Leninist political economy within the context of the country's and the world's economic development today. This project will give you a better understanding of the subject.
 - **[OppoApp](https://github.com/HD-2004/OppoApp)** — Xây dựng dự án ứng dụng tuyển dụng nhân sự Ốp pờ.
+- **[personal-portfolio](https://github.com/HD-2004/personal-portfolio)**
 - **[SignalScout](https://github.com/HD-2004/SignalScout)** — Autonomous agent that detects weak corporate signals before they become major risks
 - **[StudyGrid](https://github.com/HD-2004/StudyGrid)**
 - **[tool-crawler-web-data](https://github.com/HD-2004/tool-crawler-web-data)**
